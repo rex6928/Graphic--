@@ -217,6 +217,9 @@ void DisableOpenGL(HWND hWnd, HDC hDC, HGLRC hRC)
     ReleaseDC(hWnd, hDC);
 }
 
+![캡처](https://github.com/rex6928/Graphic--/assets/162276764/abb00b5d-85e9-4487-bdfa-648cbfe9e232)
+
+
 ```
 
  ## 2. MFC에서 사각형, 타원, 글씨에 다른 3가지 추가하기
